@@ -6,6 +6,7 @@
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="MANDAR_DIRECCION Msg.lvclass" Type="LVClass" URL="../../CAFE_MEX_ESP Messages/MANDAR_DIRECCION Msg/MANDAR_DIRECCION Msg.lvclass"/>
+		<Item Name="SOLOCITAR MERCANCIA Msg.lvclass" Type="LVClass" URL="../../CAFE_MEX_ESP Messages/SOLOCITAR MERCANCIA Msg/SOLOCITAR MERCANCIA Msg.lvclass"/>
 	</Item>
 	<Item Name="CAFE_MEX_ESP.lvclass" Type="LVClass" URL="../CAFE_MEX_ESP.lvclass"/>
 </Library>
